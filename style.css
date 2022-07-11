@@ -1,0 +1,186 @@
+.logo {
+    width: 268px;
+    height: 33px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+a {
+    text-decoration: none;
+    color: grey;
+}
+ul{
+    display: flex;
+}
+li {
+    list-style-type: none;
+    width: 60px;
+    /* display: inline; */
+    padding: 20px;
+     
+}
+.a1 {
+    color: #00b39b
+}
+#making {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-top: 50px;
+}
+#making h1{
+    font-size: 2.125rem;
+    color: #00b39b;
+    margin: 1em 0;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+#paragraphe {
+    display: flex;
+    
+}
+#paragraphe p{
+    color: grey;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding-right: 50px;
+    padding-left: 80px;
+    margin-top: 20px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    
+}
+#partie3 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#div1 {
+    background-color: #00b39b;
+    border-radius: 10px;
+    height: 345px;
+    padding-left: 30px;
+    padding-top: 30px;
+    color: blanchedalmond;
+    width: 300px;
+}
+#div1 h1{
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff
+}
+#div1 h2{
+    font-size: 1.5em;
+    font-weight: 200;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+}
+#div2 {
+   
+background-color: #3d83df;
+    border-radius: 10px;
+    height: 345px;
+    padding-left: 30px;
+    padding-top: 30px;
+    color: blanchedalmond;
+    width: 300px;
+}
+#div2 h1{
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff
+}
+#div2 h2{
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+
+}
+#div3 {
+    
+    background-color: #1b2734;
+    border-radius: 10px;
+    height: 345px;
+    padding-left: 30px;
+    padding-top: 30px;
+    color: blanchedalmond;
+    width: 300px;
+}
+#div3 h1{
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff
+
+}
+#div3 h2{
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;   
+}
+.adiv {
+    color: beige;
+}
+#partie4 {
+    display: flex;
+    justify-content: space-around ;
+}
+#divp4 {
+   margin: 50px;
+   width: 70%;
+   padding-left: 29px;
+   padding-right: 46px;
+}
+#partie4 h1{
+    padding-left: 40px;
+    color: #00b39b;
+    margin-top: 50px;
+}
+#partie5 {
+    width: 100%;
+    height: 500px;
+    background-color: #00b39b;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.vertical {
+    width: 150px;
+    height: 300px;
+    background-color: bisque;
+    padding-left: 10px;
+}
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
+  #cards div{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
